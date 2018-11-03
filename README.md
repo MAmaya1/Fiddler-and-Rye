@@ -1,4 +1,4 @@
-FIDDLER AND RYE PHOTOGRAPHY
+FIDDLER & RYE PHOTOGRAPHY
 ===
 
 Project source can be downloaded from https://github.com/thefozcat/Fiddler-and-Rye.git
