@@ -1,7 +1,7 @@
 FIDDLER & RYE PHOTOGRAPHY
 ===
 
-Project source can be downloaded from https://github.com/thefozcat/Fiddler-and-Rye.git
+Project source can be downloaded from https://github.com/MAmaya1/Fiddler-and-Rye.git
 ---
 
 Author
